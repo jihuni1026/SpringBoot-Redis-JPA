@@ -1,0 +1,30 @@
+* {
+    font-family: 'Nanum Gothic', sans-serif !important;
+    font-weight: 600 !important;
+}
+
+.container.custom {
+    margin-top: 5%;
+    padding: 3%;
+    background-color: #00b8d9;
+}
+
+#original-url {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 20px 0px;
+}
+
+#shortening-url {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #cd5bc9;
+    color: #fff;
+    padding: 10px;
+    margin: 20px 0px;
+}
