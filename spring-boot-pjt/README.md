@@ -1,4 +1,6 @@
 # Shortening URL 제공, Redirect 처리 서비스.
+
+
 > 서비스 개발 내용.
 
 [과제내용]
@@ -16,6 +18,7 @@
 - Github 소스제공 ([Github 주소](https://github.com/jihuni1026/SpringBoot-Redis-JPA))
 - Readme에는 해당 웹서버를 리눅스 기준으로 실행하기 위해 필요한 설치/빌드 방법 작성
 
+
 > 서비스 개발 환경.
 
 프로젝트 개발 환경은 다음과 같습니다.
@@ -27,6 +30,7 @@
 - Gradle
 - Redis
 - 화면구성 : Mustache, Bootstrap, JQuery ...
+
 
 > 설치/빌드 방법 (리눅스 기준).
 
